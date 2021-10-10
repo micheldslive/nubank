@@ -402,7 +402,7 @@ export const SubmenuLink = styled(Link)`
   display: block;
   font-family: Graphik-Medium;
   font-size: 24px;
-  line-height: 32px;
+  line-height: 52px;
   color: black;
 
   &:hover {

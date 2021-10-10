@@ -74,8 +74,68 @@ export const Links = [
   },
   {
     name: "O Nubank",
-    isSubmenu: false,
-    to: "/nubank",
+    isSubmenu: true,
+    to: [
+      {
+        title: "Sobre nós",
+        to: [
+          {
+            title: "O Nu",
+            to: "/nu",
+          },
+          {
+            title: "Sala de imprensa",
+            to: "/impressa",
+          },
+          {
+            title: "Carreiras",
+            to: "/carreiras",
+          },
+          {
+            title: "Nu Impacto",
+            to: "/impacto",
+          },
+        ],
+      },
+      {
+        title: "Outros canais",
+        to: [
+          {
+            title: "Blog",
+            to: "/blog",
+          },
+          {
+            title: "Newsletter",
+            to: "/newsletter",
+          },
+          {
+            title: "Comunidade",
+            to: "/comunidade",
+          },
+          {
+            title: "InvestNews",
+            to: "/invest",
+          },
+        ],
+      },
+      {
+        title: "Nubank pelo mundo",
+        to: [
+          {
+            title: "México",
+            to: "/mexico",
+          },
+          {
+            title: "Colômbia",
+            to: "/colombia",
+          },
+          {
+            title: "Argentina",
+            to: "/argentina",
+          },
+        ],
+      },
+    ],
   },
   {
     name: "Perguntas",

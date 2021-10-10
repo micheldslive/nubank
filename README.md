@@ -1,9 +1,10 @@
-<p align="center">	
-  <img src="https://github.com/micheldslive/nubank/blob/nubank/src/assets/images/nu.svg" width="200" alt="Unform" />
+<p>	
+  <img src="https://github.com/micheldslive/nubank/blob/master/src/assets/images/nu.svg" width="150" alt="Nubank" />
 </p>	
--------------------------------------
-### 👀 Pré-visualização do Projeto: https://nubank.vercel.app/
-<img src="https://github.com/micheldslive/nubank/blob/nubank/demo/demo.gif" width="700"   />
+
+
+### 👀 Pré-visualização do Projeto: https://nu-bank.vercel.app/
+<img src="https://github.com/micheldslive/nubank/blob/master/demo/demo.gif" width="700"   />
 
 -------------------------------------
 ### 💻 Principais recursos utilizados: 

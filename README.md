@@ -1,5 +1,5 @@
-<p>	
-  <img src="https://github.com/micheldslive/nubank/blob/master/src/assets/images/nu.svg" width="150" alt="Nubank" />
+<p align="center">	
+  <img src="https://github.com/micheldslive/nubank/blob/master/src/assets/images/nu.svg" width="110" alt="Nubank" />
 </p>	
 
 <p align="center">

@@ -46,7 +46,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias e suas dependencias:
     - body-scroll-lock
     - styled-components
     - react-router-dom
-
+    
+    
 ---
 
 ## ▶️ Executando o projeto
